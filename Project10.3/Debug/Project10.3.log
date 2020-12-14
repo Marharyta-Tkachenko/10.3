@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Project10.3\Project10.3\Source.cpp(48,12): warning C4101: 'pos': unreferenced local variable
+C:\Student\ Tkachenko.Marharyta.IK11\Project10.3\Project10.3\Source.cpp(52,7): warning C4101: 'filename': unreferenced local variable
+C:\Student\ Tkachenko.Marharyta.IK11\Project10.3\Project10.3\Source.cpp(48,31): warning C4101: 'index': unreferenced local variable
+C:\Student\ Tkachenko.Marharyta.IK11\Project10.3\Project10.3\Source.cpp(48,17): warning C4101: 'zmina': unreferenced local variable
+  Project10.3.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Project10.3\Debug\Project10.3.exe
